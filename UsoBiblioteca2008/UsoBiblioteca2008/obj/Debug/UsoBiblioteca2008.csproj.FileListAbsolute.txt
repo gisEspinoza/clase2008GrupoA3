@@ -1,0 +1,10 @@
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\bin\Debug\UsoBiblioteca2008.exe.config
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\bin\Debug\UsoBiblioteca2008.exe
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\bin\Debug\UsoBiblioteca2008.pdb
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\bin\Debug\Biblioteca2008.dll
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\bin\Debug\Biblioteca2008.pdb
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\obj\Debug\UsoBiblioteca2008.csprojAssemblyReference.cache
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\obj\Debug\UsoBiblioteca2008.csproj.CoreCompileInputs.cache
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\obj\Debug\UsoBiblioteca2008.csproj.CopyComplete
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\obj\Debug\UsoBiblioteca2008.exe
+C:\Users\Gisela\source\repos\UsoBiblioteca2008\UsoBiblioteca2008\obj\Debug\UsoBiblioteca2008.pdb
